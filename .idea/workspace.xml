@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae94e0a-2e9b-40cb-81e6-78a252cc4a23" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/bubble-sort/bubble-sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/bubble-sort/bubble-sort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insertion-sort/insertion-sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/insertion-sort/insertion-sort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quick-sort/quick-sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/quick-sort/quick-sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="insertion-sort.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="insertion-sort.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/insertion-sort/insertion-sort.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -57,6 +64,7 @@
         <option value="$PROJECT_DIR$/quick-sort/quick-sort.js" />
         <option value="$PROJECT_DIR$/bubble-sort/bubble-sort.js" />
         <option value="$PROJECT_DIR$/insertion-sort/insertion-sort.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -138,12 +146,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536051369941</updated>
       <workItem from="1536051371041" duration="3756000" />
-      <workItem from="1536072215155" duration="1375000" />
+      <workItem from="1536072215155" duration="1508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5131000" />
+    <option name="totallyTimeSpent" value="5264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -214,6 +222,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
