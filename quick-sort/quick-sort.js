@@ -7,7 +7,7 @@
  * @param right
  */
 
-function quickSort(arr, left, right) {
+function quick_sort(arr, left, right) {
 
     if (left >= right) {
         return;
@@ -41,6 +41,6 @@ function quickSort(arr, left, right) {
 
 let arr1 = [2, 1, 3, 5, 4];
 
-quickSort(arr1, 0, arr1.length - 1);
+quick_sort(arr1, 0, arr1.length - 1);
 
 console.log(arr1);

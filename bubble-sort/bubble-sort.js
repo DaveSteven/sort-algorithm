@@ -1,13 +1,12 @@
 /**
  * 冒泡排序
- * 时间复杂度：O(n2)
+ * 时间复杂度：O(n * n)
  * 空间复杂度：O(1)
- * @type {number[]}
  */
 
 let arr1 = [1, 3, 4, 5, 2, 9, 7, 0];
 
-function bubbleSort(arr) {
+function bubble_sort(arr) {
 
     for (let i = 0, len = arr.length; i < len; i++) {
 
@@ -15,7 +14,10 @@ function bubbleSort(arr) {
 
             if (arr[j] > arr[j+1]) {
 
-                [arr[j], arr[j+1]] = [arr[j+1], arr[j]];
+                let temp = arr[j+1];
+                arr[j+1] = arr[j];
+                arr[j] = temp;
+                // [arr[j], arr[j+1]] = [arr[j+1], arr[j]];
 
             }
         }
